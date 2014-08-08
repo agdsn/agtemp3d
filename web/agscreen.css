@@ -1,0 +1,16 @@
+body {
+  font-family: Monospace;
+  margin: 0px;
+  color: white;
+  background-color: navy;
+}
+
+#container {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+}
+
+#wu5label {
+  position: relative;
+}

@@ -1,0 +1,6 @@
+name: agscreen
+description: A sample web application
+dependencies:
+  browser: any
+  three:
+    path: /home/tim/dev/fun/three.dart
