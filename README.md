@@ -1,4 +1,4 @@
-agscreen
+agtemp3d
 ========
 
-Experiments with an infodisplay, using dart and webgl. This is a work in progress.
+HTML5-Website showing a wireframe model of Wundtstraße dormitories and colored temperature sensor data
